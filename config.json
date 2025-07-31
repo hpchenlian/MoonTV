@@ -1,4 +1,5 @@
 
+
 {
   "cache_time": 7200,
   "api_site": {
@@ -85,6 +86,10 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "yingba": {
+      "api": "https://xingba222.com/api.php/provide/vod",
+      "name": "杏吧"
     }
   }
 }
